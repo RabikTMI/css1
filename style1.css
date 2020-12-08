@@ -1,0 +1,24 @@
+body{
+
+  font-family: Verdana ;
+}
+
+  .baner {
+background:blue ;
+padding: 30px;
+font-size: 1.2em;
+}
+
+
+.lewa {
+background: green;
+padding: 280px;
+font-size: 1.2em;
+}
+
+.prawa{
+background: orange;
+padding: 40px;
+
+
+}
